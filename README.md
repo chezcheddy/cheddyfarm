@@ -1,3 +1,3 @@
-# Berry Farm
+# Cheddy Farm
 
-Sell your berry for profits
+Stake Cheddar and earn more Cheddar.
